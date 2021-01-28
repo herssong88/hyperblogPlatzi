@@ -4,3 +4,5 @@ información adicional en tercera persona
 otra Historia con cambio de maestría
 prueba de cambio
 nuevo cambio: probar git reset
+con git rm --cached se elimino el archivo del stage y no le hace seguimiento a pesar de que exista en el disco duro.
+probando realizar un nuevo cambio para adicionar
