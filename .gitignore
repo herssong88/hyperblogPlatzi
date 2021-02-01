@@ -1,0 +1,3 @@
+#configuracion para ignorar los archivos de imagenes en el repositorio
+*.jpeg
+*.jpg
